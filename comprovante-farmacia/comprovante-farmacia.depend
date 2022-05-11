@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652289881 source:c:\users\joao pedro\documents\codeblocksscripts\comprovante-farmacia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+
