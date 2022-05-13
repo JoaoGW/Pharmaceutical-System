@@ -1,2 +1,2 @@
 # Pharmaceutical System
-Sistema de Produtos de uma farmácia de manipulação com recibo para clientes. Totalmente programado em linguagem C
+Pharmaceutical System of a compounding pharmacy with receipt for customers. Fully programmed in C language
